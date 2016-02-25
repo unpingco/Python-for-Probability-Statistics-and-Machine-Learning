@@ -2,5 +2,5 @@
 
 Jupyter/IPython Notebooks for Springer book "Python for Probability, Statistics, and Machine Learning"
 
-[Draft cover](../python_for_probability_statistics_and_machine_learning.png)
+[Draft cover](./python_for_probability_statistics_and_machine_learning.png)
 
