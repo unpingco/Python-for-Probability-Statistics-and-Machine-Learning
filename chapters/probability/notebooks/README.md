@@ -23,3 +23,18 @@ Please open an Issue here
 if you have problems or need more information.
 
 -Jose
+
+Probability Chapter Table of Contents
+-------------------------------------
+
+![Intro](./intro.ipynb)
+
+![Projection](./projection.do.txt)
+![Projection](./Conditional_Expectation_Projection.do.txt)
+![Projection](./Conditional_expectation_MSE.do.txt)
+![Projection](./Conditional_expectation_MSE_Ex.do.txt)
+![Projection](./Information_Entropy.do.txt)
+![Projection](./moment_generating.do.txt)
+![Projection](./Sampling_Monte_Carlo.do.txt)
+![Projection](./ProbabilityInequalities.do.txt)
+
