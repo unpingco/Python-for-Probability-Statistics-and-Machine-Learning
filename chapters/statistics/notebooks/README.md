@@ -29,13 +29,23 @@ Statistics Chapter Table of Contents
 -------------------------------------
 
 ![intro](./intro.ipynb)
+
 ![Convergence](./Convergence.ipynb)
+
 ![Maximum likelihood](./Maximum_likelihood.ipynb)
+
 ![Hypothesis Testing](./Hypothesis_Testing.ipynb)
+
 ![Confidence Intervals](./Confidence_Intervals.ipynb))
+
 ![Regression](./Regression.ipynb)
+
 ![maximum posteriori](./maximum_posteriori.ipynb)
+
 ![Robust Statistics](./Robust_Statistics.ipynb)
+
 ![Bootstrap](./Bootstrap.ipynb)
+
 ![Gauss Markov](./Gauss_Markov.ipynb))
+
 ![Nonparametric](./Nonparametric.ipynb))
