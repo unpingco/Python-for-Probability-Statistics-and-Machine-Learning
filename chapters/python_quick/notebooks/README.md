@@ -18,7 +18,7 @@ main text. This material may be useful on that basis.
 
 Please open an Issue here
 
-  https://github.com/unpingco/python_for_prob_stats_ml 
+     https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning/issues
 
 if you have problems or need more information.
 
