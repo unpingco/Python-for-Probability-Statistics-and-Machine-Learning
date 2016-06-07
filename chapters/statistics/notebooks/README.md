@@ -36,7 +36,7 @@ Statistics Chapter Table of Contents
 
 ![Hypothesis Testing](./Hypothesis_Testing.ipynb)
 
-![Confidence Intervals](./Confidence_Intervals.ipynb))
+![Confidence Intervals](./Confidence_Intervals.ipynb)
 
 ![Regression](./Regression.ipynb)
 
@@ -46,6 +46,6 @@ Statistics Chapter Table of Contents
 
 ![Bootstrap](./Bootstrap.ipynb)
 
-![Gauss Markov](./Gauss_Markov.ipynb))
+![Gauss Markov](./Gauss_Markov.ipynb)
 
-![Nonparametric](./Nonparametric.ipynb))
+![Nonparametric](./Nonparametric.ipynb)
