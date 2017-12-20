@@ -1,10 +1,6 @@
 This directory contains the corresponding IPython/Jupyter notebooks
 for the Statistics chapter. At the command line, do the following
 
-  % ipython notebook
-
-or 
-
   % jupyter notebook
 
 and then your default browser should pop up and you can click on

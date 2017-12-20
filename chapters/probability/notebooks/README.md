@@ -1,10 +1,6 @@
 This directory contains the corresponding IPython/Jupyter notebooks
 for the Statistics chapter. At the command line, do the following
 
-  % ipython notebook
-
-or 
-
   % jupyter notebook
 
 and then your default browser should pop up and you can click on
@@ -27,9 +23,9 @@ if you have problems or need more information.
 Probability Chapter Table of Contents
 -------------------------------------
 
-![Intro](./intro.ipynb)
+![Intro](intro.ipynb)
 
-![Projection](./projection.ipynb)
+![Projection](projection.ipynb)
 
 ![Conditional Expectation as Projection](./Conditional_Expectation_Projection.ipynb)
 
