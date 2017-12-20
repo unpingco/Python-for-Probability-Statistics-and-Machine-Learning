@@ -12,9 +12,7 @@ be some code in the src-statistics directory that may be useful. This
 directory contains author drafts that were usually migrated into the
 main text. This material may be useful on that basis.
 
-Please open an [Issue](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning/issues)
-
-if you have problems or need more information.
+Please open an [Issue](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning/issues) if you have problems or need more information.
 
 -Jose
 
