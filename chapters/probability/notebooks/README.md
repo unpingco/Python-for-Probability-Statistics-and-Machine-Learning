@@ -1,7 +1,7 @@
 This directory contains the corresponding Jupyter notebooks
 for the Statistics chapter. At the command line, do the following
 
-  % jupyter notebook
+    jupyter notebook
 
 and then your default browser should pop up and you can click on
 the individual notebooks and run all the cells. There may be some
