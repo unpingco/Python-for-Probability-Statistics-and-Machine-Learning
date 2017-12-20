@@ -16,3 +16,15 @@ Please open an [Issue](https://github.com/unpingco/Python-for-Probability-Statis
 if you have problems or need more information.
 
 -Jose
+
+Machine Learning Chapter Table of Contents
+-------------------------------------------
+
+![Theory of Learning](./learning_theory.ipynb)
+![Decision Trees](./decision_trees.ipynb)
+![Logistic Regression](./logreg.ipynb)
+![Regularization](./regularization.ipynb)
+![Support Vector Machines](./svm.ipynb)
+![Clustering](./clustering.ipynb)
+![Ensemble Methods](./ensemble.ipynb)
+
