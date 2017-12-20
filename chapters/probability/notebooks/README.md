@@ -8,7 +8,7 @@ the individual notebooks and run all the cells. There may be some
 duplication in the output but this is for double checking that the
 rendered figures match those that were included in the source text.
 Due to some limitations in the translation between formats, there may
-be some code in the src-statistics directory that may be useful. This
+be some code in the `src-probability` directory that may be useful. This
 directory contains author drafts that were usually migrated into the
 main text. This material may be useful on that basis.
 
