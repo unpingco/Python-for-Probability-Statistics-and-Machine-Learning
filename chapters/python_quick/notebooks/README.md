@@ -1,4 +1,4 @@
-This directory contains the corresponding IPython/Jupyter notebooks
+This directory contains the corresponding Jupyter notebooks
 for the Statistics chapter. At the command line, do the following
 
   % ipython notebook
