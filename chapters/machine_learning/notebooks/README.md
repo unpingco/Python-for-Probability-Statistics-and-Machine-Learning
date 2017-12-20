@@ -17,7 +17,7 @@ if you have problems or need more information.
 
 Note that the notebooks in this section are for  **Python 3.5+**, not Python 2.7,
 as in the rest of this repository. All the notebooks
-here will eventually be for Python 3.5+.
+in this repository will eventually be converted for Python 3.5+.
 
 -Jose
 
