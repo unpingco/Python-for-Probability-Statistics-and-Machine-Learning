@@ -34,6 +34,6 @@ Probability Chapter Table of Contents
 
 [Moment Generating Functions](./moment_generating.ipynb)
 
-![Monte Carlo Sampling Methods](./Sampling_Monte_Carlo.ipynb)
+[Monte Carlo Sampling Methods](./Sampling_Monte_Carlo.ipynb)
 
-![Probability Inequalities](./ProbabilityInequalities.ipynb)
+[Probability Inequalities](./ProbabilityInequalities.ipynb)
