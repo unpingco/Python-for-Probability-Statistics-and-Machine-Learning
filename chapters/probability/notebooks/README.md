@@ -20,19 +20,19 @@ if you have problems or need more information.
 Probability Chapter Table of Contents
 -------------------------------------
 
-![Intro](intro.ipynb)
+[Intro](intro.ipynb)
 
-![Projection](projection.ipynb)
+[Projection](projection.ipynb)
 
-![Conditional Expectation as Projection](./Conditional_Expectation_Projection.ipynb)
+[Conditional Expectation as Projection](./Conditional_Expectation_Projection.ipynb)
 
-![Conditional Expectation Mean-Squared-Error](./Conditional_expectation_MSE.ipynb)
+[Conditional Expectation Mean-Squared-Error](./Conditional_expectation_MSE.ipynb)
 
-![Conditional Expectation Mean-Squared-Error Examples](./Conditional_expectation_MSE_Ex.ipynb)
+[Conditional Expectation Mean-Squared-Error Examples](./Conditional_expectation_MSE_Ex.ipynb)
 
-![Information Entropy](./Information_Entropy.ipynb)
+[Information Entropy](./Information_Entropy.ipynb)
 
-![Moment Generating Functions](./moment_generating.ipynb)
+[Moment Generating Functions](./moment_generating.ipynb)
 
 ![Monte Carlo Sampling Methods](./Sampling_Monte_Carlo.ipynb)
 
